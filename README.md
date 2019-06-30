@@ -41,7 +41,7 @@ https://www.cs.cmu.edu/~dga/papers/cops-sosp2011.pdf , Don't settle for eventual
 
 ## Consensus
 
-## Transactions
+## Transactions & Concurrency
 
 ## Books
 
