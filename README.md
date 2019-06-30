@@ -42,3 +42,11 @@ https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyA
 https://www.youtube.com/watch?v=ifMCGh6MHY0 , consistency spectrum
 
 https://www.cs.cmu.edu/~dga/papers/cops-sosp2011.pdf , Don't settle for eventual consistency
+
+# Time & Order
+
+# Consensus
+
+# Transactions
+
+
