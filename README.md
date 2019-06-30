@@ -28,19 +28,13 @@ http://pinboard.in/u:sids/t:fifthel2015
 https://www.youtube.com/watch?v=hUd_9FENShA
 
 # Consistency Models
-
+< linearizability >
+< external consistency >
 https://aphyr.com/posts/313-strong-consistency-models
-
 https://aphyr.com/posts/333-serializability-linearizability-and-locality
-
 https://cs.stanford.edu/people/chrismre/cs345/rl/eventually-consistent.pdf
-
 http://www.vldb.org/pvldb/vol7/p181-bailis.pdf
-
 https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf
-
-https://www.youtube.com/watch?v=ifMCGh6MHY0 , consistency spectrum
-
 https://www.cs.cmu.edu/~dga/papers/cops-sosp2011.pdf , Don't settle for eventual consistency
 
 # Time & Order
@@ -48,5 +42,10 @@ https://www.cs.cmu.edu/~dga/papers/cops-sosp2011.pdf , Don't settle for eventual
 # Consensus
 
 # Transactions
+
+# Books
+
+# Blogs
+
 
 
